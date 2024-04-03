@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\obj\Debug\net8.0\methodoverloadingAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\obj\Debug\net8.0\methodoverloadingAndOut.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\obj\Debug\net8.0\methodoverloadingAndOut.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\obj\Debug\net8.0\methodoverloadingAndOut.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\bin\Debug\net8.0\methodoverloadingAndOut.exe
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\bin\Debug\net8.0\methodoverloadingAndOut.deps.json
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\bin\Debug\net8.0\methodoverloadingAndOut.runtimeconfig.json
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\bin\Debug\net8.0\methodoverloadingAndOut.dll
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\bin\Debug\net8.0\methodoverloadingAndOut.pdb
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\obj\Debug\net8.0\methodoverloadingAndOut.dll
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\obj\Debug\net8.0\refint\methodoverloadingAndOut.dll
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\obj\Debug\net8.0\methodoverloadingAndOut.pdb
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\obj\Debug\net8.0\methodoverloadingAndOut.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\methodoverloadingAndOut\obj\Debug\net8.0\ref\methodoverloadingAndOut.dll
